@@ -11,12 +11,13 @@ Incluye aquí capturas o salidas relevantes del cuaderno.
 - Esquema de `pedidos`
 ![esquema](image-2.png)
 
-- Muestra inicial de datos
+- Muestra inicial de datos ![muestras](image-3.png)
 
 ## 3. Limpieza
 - Resultado tras `trim`
 - Eliminación de duplicados
 - Tratamiento de valores nulos
+![limpieza](image-4.png)
 
 ## 4. Join
 - Resultado del join entre clientes y pedidos
