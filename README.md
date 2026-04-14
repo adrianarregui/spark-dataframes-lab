@@ -1,3 +1,5 @@
+<img width="1024" height="1536" alt="imagen_proyecto" src="https://github.com/user-attachments/assets/90005fb4-06d5-47aa-9a59-fe83ebc20b58" />
+
 # Spark DataFrames Lab con entorno dockerizado
 
 Repositorio base de la práctica de **Apache Spark con DataFrames**. Este repositorio incluye tanto el **enunciado** como el **entorno dockerizado** necesario para ejecutar la práctica en clase.
