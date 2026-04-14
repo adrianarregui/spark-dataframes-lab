@@ -3,12 +3,14 @@
 Incluye aquí capturas o salidas relevantes del cuaderno.
 
 ## 1. Entorno levantado
-- Captura de JupyterLab
-- Captura del Spark Master UI
+- Captura de JupyterLab ![jupyter](image.png)
+- Captura del Spark Master UI ![spark master ui](image-1.png)
 
 ## 2. Lectura de datos
 - Esquema de `clientes`
 - Esquema de `pedidos`
+![esquema](image-2.png)
+
 - Muestra inicial de datos
 
 ## 3. Limpieza
