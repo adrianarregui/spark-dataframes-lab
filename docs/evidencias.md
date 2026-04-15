@@ -25,8 +25,10 @@ Incluye aquí capturas o salidas relevantes del cuaderno.
 ![join y explicacion](image-5.png)
 
 ## 5. Agregaciones
-- Resumen por ciudad y segmento
+- Resumen por ciudad y segmento ![agregaciones de ciudad y segmento](image-6.png)
 - Interpretación breve de los resultados
+Como se puede observar en la tabla, el segmento 'Estandar' de Bilbao es el que mayor volumen de ingresos (11.685) y número de pedidos (19) genera en total. Sin embargo, resulta muy interesante notar que los clientes 'Premium' de Granada y Alicante, a pesar de tener menos pedidos (7 cada uno), tienen un gasto medio por pedido (media_importe) muchísimo más alto, superando los 1.000€.
+
 
 ## 6. SQL
 - Consulta SQL realizada
