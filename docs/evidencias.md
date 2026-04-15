@@ -38,3 +38,4 @@ Como se puede observar en la tabla, el segmento 'Estandar' de Bilbao es el que m
 ## 7. Parquet
 - Escritura del resultado
 - Lectura posterior del fichero Parquet
+![guardar resultado en parquet](image-8.png)
