@@ -33,6 +33,7 @@ Como se puede observar en la tabla, el segmento 'Estandar' de Bilbao es el que m
 ## 6. SQL
 - Consulta SQL realizada
 - Resultado obtenido
+![consulta y resultado](image-7.png)
 
 ## 7. Parquet
 - Escritura del resultado
