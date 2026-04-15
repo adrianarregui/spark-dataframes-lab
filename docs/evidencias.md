@@ -20,8 +20,9 @@ Incluye aquí capturas o salidas relevantes del cuaderno.
 ![limpieza](image-4.png)
 
 ## 4. Join
-- Resultado del join entre clientes y pedidos ![join](image-5.png)
+- Resultado del join entre clientes y pedidos
 - Explicación breve de los registros perdidos
+![join y explicacion](image-5.png)
 
 ## 5. Agregaciones
 - Resumen por ciudad y segmento
